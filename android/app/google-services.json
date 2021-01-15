@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983106184157",
+    "project_id": "finalversionemcapp",
+    "storage_bucket": "finalversionemcapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983106184157:android:f90640e628f9f576f78c34",
+        "android_client_info": {
+          "package_name": "com.LauraAbsilFinalVersion.flutterApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983106184157-ejc2ijekc925hrfpc0a733j40gg9gfmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLcfoF2rn8m7vtqY-xpRzEDPsly8SBU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983106184157-ejc2ijekc925hrfpc0a733j40gg9gfmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
